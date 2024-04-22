@@ -77,13 +77,16 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aartibondre&show_icons=true&locale=en&layout=compact" alt="aartibondre" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aartibondre&show_icons=true&theme=transparent&layout=compact" alt="aartibondre" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aartibondre&show_icons=true&locale=en" alt="aartibondre" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aartibondre&show_icons=true&theme=transparent" alt="aartibondre" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aartibondre&" alt="aartibondre" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aartibondre&theme=transparent" alt="aartibondre" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartibondre&label=Profile%20views&color=0e75b6&style=flat" alt="aartibondre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartibondre" alt="aartibondre" /></a> </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
