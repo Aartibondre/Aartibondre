@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **C#, Angular, SQL, etc.**
+- 🔭 I’m currently working on **Apex, LWC, JavaScript, SOQL, Java etc.**
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently learning **Advanced Salesforce Development.**, 
 
 - 👨‍💻 Most of my projects are available at [Github](https://github.com/Aartibondre)
 
